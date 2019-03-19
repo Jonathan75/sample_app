@@ -15,6 +15,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 - 3.4.3 
 - 3.4.4
 - 3.5
+- 3.6.2
 
 
 ## License
