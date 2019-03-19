@@ -5,6 +5,18 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+## Progress
+
+- 3.3
+- 3.7
+- 3.11
+- 3.15 error running test `rails test`, `sudo yum install -y tmux`
+- 3.4
+- 3.4.3 
+- 3.4.4
+- 3.5
+
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
