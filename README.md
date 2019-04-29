@@ -16,6 +16,9 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 - 3.4.4
 - 3.5
 - 3.6.2
+- 4.2.2 Strings
+- 5
+- 
 
 
 ## License
