@@ -16,7 +16,16 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 - 3.4.4
 - 3.5
 - 3.6.2
-
+- 4.2.2 Strings
+- 5
+- 5.1.2 
+- 5.1.3
+- 5.2
+- 5.2.2
+- 5.3
+- 5.3.2
+- 5.4.2
+- 5.5.1
 
 ## License
 
