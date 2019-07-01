@@ -26,6 +26,8 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 - 5.3.2
 - 5.4.2
 - 5.5.1
+- 6.1.4
+- 
 
 ## License
 
